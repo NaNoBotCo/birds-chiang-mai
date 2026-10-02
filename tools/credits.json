@@ -1,0 +1,404 @@
+{
+  "greater-coucal": {
+    "audio": {
+      "file": "audio/greater-coucal.mp3",
+      "page": "https://commons.wikimedia.org/wiki/File:Greater_coucal_-_Centropus_sinensis.ogg",
+      "author": "Alasdair Forbes",
+      "licence": "CC BY 3.0",
+      "licence_url": "https://creativecommons.org/licenses/by/3.0",
+      "recorded": "Phuket, Thailand",
+      "seconds": 14.63,
+      "kind": "call"
+    },
+    "img": {
+      "file": "img/greater-coucal.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Greater_coucal_(Centropus_sinensis).jpg",
+      "author": "Charles J. Sharp",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "w": 900,
+      "h": 600
+    }
+  },
+  "asian-koel": {
+    "audio": {
+      "file": "audio/asian-koel.mp3",
+      "page": "https://commons.wikimedia.org/wiki/File:Asian_koel_song_recorded_in_May_2022_at_Haripur,_Sangli.wav",
+      "author": "Sharadapte",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "recorded": "Haripur, Sangli, Maharashtra, India",
+      "seconds": 15.05,
+      "kind": "song"
+    },
+    "img": {
+      "file": "img/asian-koel.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Asian_Koel.jpg",
+      "author": "Jason Thompson",
+      "licence": "CC BY 2.0",
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "w": 900,
+      "h": 1125
+    }
+  },
+  "oriental-magpie-robin": {
+    "audio": {
+      "file": "audio/oriental-magpie-robin.mp3",
+      "page": "https://commons.wikimedia.org/wiki/File:Oriental_magpie_robin.wav",
+      "author": "Vinay bhat",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "recorded": null,
+      "seconds": 16.04,
+      "kind": "song"
+    },
+    "img": {
+      "file": "img/oriental-magpie-robin.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Oriental_magpie_robin_(Copsychus_saularis)_male_Pokhara.jpg",
+      "author": "Charles J. Sharp",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "w": 900,
+      "h": 1349
+    }
+  },
+  "red-whiskered-bulbul": {
+    "audio": {
+      "file": "audio/red-whiskered-bulbul.mp3",
+      "page": "https://commons.wikimedia.org/wiki/File:Red-whiskered_bulbul_call_recorded_in_March_2006_at_Jamboti,_Karnataka.wav",
+      "author": "Sharadapte",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "recorded": "Jamboti, Karnataka, India",
+      "seconds": 12.83,
+      "kind": "call"
+    },
+    "img": {
+      "file": "img/red-whiskered-bulbul.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Red-whiskered_bulbul_(Pycnonotus_jocosus)_Reunion.jpg",
+      "author": "Charles J. Sharp",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "w": 900,
+      "h": 1349
+    }
+  },
+  "streak-eared-bulbul": {
+    "audio": null,
+    "img": {
+      "file": "img/streak-eared-bulbul.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Pycnonotus_conradi_-_Kaeng_Krachan.jpg",
+      "author": "JJ Harrison (https://www.jjharrison.com.au/)",
+      "licence": "CC BY-SA 3.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "w": 900,
+      "h": 1351
+    }
+  },
+  "common-myna": {
+    "audio": {
+      "file": "audio/common-myna.mp3",
+      "page": "https://commons.wikimedia.org/wiki/File:CommonMynaCalls.ogg",
+      "author": "L. Shyamal",
+      "licence": "CC BY-SA 2.5",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "recorded": null,
+      "seconds": 15.05,
+      "kind": "call"
+    },
+    "img": {
+      "file": "img/common-myna.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Common_myna,_(Acridotheres_tristis).jpg",
+      "author": "Hobbyfotowiki",
+      "licence": "CC0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "w": 900,
+      "h": 598
+    }
+  },
+  "coppersmith-barbet": {
+    "audio": {
+      "file": "audio/coppersmith-barbet.mp3",
+      "page": "https://commons.wikimedia.org/wiki/File:Megalaima_haemacephala_-_Coppersmith_Barbet_XC122982.ogg",
+      "author": "Sudipto Roy",
+      "licence": "CC BY-SA 3.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "recorded": "Tollygunge, Kolkata, West Bengal, India",
+      "seconds": 14.03,
+      "kind": "call"
+    },
+    "img": {
+      "file": "img/coppersmith-barbet.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Coppersmith_Barbet_in_Rabindra_Sarobar_November_2025_by_Tisha_Mukherjee_03.jpg",
+      "author": "Tisha Mukherjee",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "w": 900,
+      "h": 600
+    }
+  },
+  "lineated-barbet": {
+    "audio": {
+      "file": "audio/lineated-barbet.mp3",
+      "page": "https://commons.wikimedia.org/wiki/File:Megalaima_lineata_-_Lineated_Barbet_XC125846.ogg",
+      "author": "Sudipto Roy",
+      "licence": "CC BY-SA 3.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "recorded": "Narendrapur, West Bengal, India",
+      "seconds": 15.05,
+      "kind": "song"
+    },
+    "img": {
+      "file": "img/lineated-barbet.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Lineated-Barbet.jpg",
+      "author": "Mildeep",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "w": 900,
+      "h": 600
+    }
+  },
+  "black-drongo": {
+    "audio": {
+      "file": "audio/black-drongo.mp3",
+      "page": "https://commons.wikimedia.org/wiki/File:Black_Drongo.ogg",
+      "author": "Gypsypkd",
+      "licence": "Public domain",
+      "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "recorded": null,
+      "seconds": 10.92,
+      "kind": "call"
+    },
+    "img": {
+      "file": "img/black-drongo.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Black_Drongo_DSC9885.jpg",
+      "author": "T. R. Shankar Raman",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "w": 900,
+      "h": 598
+    }
+  },
+  "spotted-dove": {
+    "audio": {
+      "file": "audio/spotted-dove.mp3",
+      "page": "https://commons.wikimedia.org/wiki/File:Spotted_dove_song_recorded_in_February_2003_at_Kulgi_Nature_Camp,_Dandeli.wav",
+      "author": "Sharadapte",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "recorded": "Kulgi Nature Camp, Dandeli, Karnataka, India",
+      "seconds": 15.54,
+      "kind": "song"
+    },
+    "img": {
+      "file": "img/spotted-dove.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Spotted_dove_(Spilopelia_chinensis_suratensis).jpg",
+      "author": "Charles J. Sharp",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "w": 900,
+      "h": 1112
+    }
+  },
+  "olive-backed-sunbird": {
+    "audio": null,
+    "img": {
+      "file": "img/olive-backed-sunbird.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Cinnyris_jugularis_male.jpg",
+      "author": "JJ Harrison (https://www.jjharrison.com.au/)",
+      "licence": "CC BY-SA 3.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "w": 900,
+      "h": 720
+    }
+  },
+  "white-throated-kingfisher": {
+    "audio": {
+      "file": "audio/white-throated-kingfisher.mp3",
+      "page": "https://commons.wikimedia.org/wiki/File:W.B.Kingfisher.ogg",
+      "author": "Shajiarikkad",
+      "licence": "CC BY-SA 3.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "recorded": null,
+      "seconds": 14.03,
+      "kind": "call"
+    },
+    "img": {
+      "file": "img/white-throated-kingfisher.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:White-throated_Kingfisher_in_Ludhiana_district,_Punjab_03.jpg",
+      "author": "Satdeep Gill",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "w": 900,
+      "h": 505
+    }
+  },
+  "large-tailed-nightjar": {
+    "audio": null,
+    "img": {
+      "file": "img/large-tailed-nightjar.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Large-tailed_Nightjar_(Caprimulgus_macrurus)_In_Bangladesh.jpg",
+      "author": "MamunSheikh121",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "w": 900,
+      "h": 600
+    }
+  },
+  "asian-barred-owlet": {
+    "audio": null,
+    "img": {
+      "file": "img/asian-barred-owlet.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Asian_Barred_Owlet_in_Kaziranga_National_Park_March_2025_by_Tisha_Mukherjee_01.jpg",
+      "author": "Tisha Mukherjee",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "w": 900,
+      "h": 600
+    }
+  },
+  "common-tailorbird": {
+    "audio": {
+      "file": "audio/common-tailorbird.mp3",
+      "page": "https://commons.wikimedia.org/wiki/File:Cambodia_tailorbird.ogg",
+      "author": "L. Shyamal",
+      "licence": "CC0",
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "recorded": "Siem Reap, Cambodia",
+      "seconds": 15.02,
+      "kind": "song"
+    },
+    "img": {
+      "file": "img/common-tailorbird.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Common_tailorbird_(Orthotomus_sutorius_guzuratus)_male_Kerala.jpg",
+      "author": "Charles J. Sharp",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "w": 900,
+      "h": 600
+    }
+  },
+  "eurasian-hoopoe": {
+    "audio": {
+      "file": "audio/eurasian-hoopoe.mp3",
+      "page": "https://commons.wikimedia.org/wiki/File:Eurasian_hoopoe_song_recorded_in_January_1999_at_Perambikulam,_Kerala.wav",
+      "author": "Sharadapte",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "recorded": "Perambikulam, Kerala, India",
+      "seconds": 8.54,
+      "kind": "song"
+    },
+    "img": {
+      "file": "img/eurasian-hoopoe.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Upupa_epops_2_Luc_Viatour.jpg",
+      "author": "Luc Viatour",
+      "licence": "CC BY-SA 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "w": 900,
+      "h": 651
+    }
+  },
+  "red-junglefowl": {
+    "audio": null,
+    "img": {
+      "file": "img/red-junglefowl.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Gallus_gallus,_Khao_Yai_Lam_Ta_Khong,_Thailand_477443293.jpg",
+      "author": "dhfischer",
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "w": 900,
+      "h": 600
+    }
+  },
+  "green-peafowl": {
+    "audio": null,
+    "img": {
+      "file": "img/green-peafowl.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Green_peafowl_(Pavo_muticus),_Gembira_Loka_Zoo,_Yogyakarta,_2015-03-15.jpg",
+      "author": "Crisco 1492",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "w": 900,
+      "h": 573
+    }
+  },
+  "chinese-pond-heron": {
+    "audio": null,
+    "img": {
+      "file": "img/chinese-pond-heron.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Ardeola_bacchus_winter_plumage_-_Laem_Phak_Bia.jpg",
+      "author": "JJ Harrison (https://www.jjharrison.com.au/)",
+      "licence": "CC BY-SA 3.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "w": 900,
+      "h": 720
+    }
+  },
+  "asian-openbill": {
+    "audio": null,
+    "img": {
+      "file": "img/asian-openbill.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Asian_openbill_stork_(Anastomus_oscitans).jpg",
+      "author": "Charles J. Sharp",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "w": 900,
+      "h": 1044
+    }
+  },
+  "green-tailed-sunbird": {
+    "audio": null,
+    "img": {
+      "file": "img/green-tailed-sunbird.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Green-tailed_sunbird_(Aethopyga_nipalensis)_male_Phulchowki.jpg",
+      "author": "Charles J. Sharp",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "w": 900,
+      "h": 900
+    }
+  },
+  "barn-owl": {
+    "audio": {
+      "file": "audio/barn-owl.mp3",
+      "page": "https://commons.wikimedia.org/wiki/File:Barn_Owl_(Tyto_alba)_(W_TYTO_ALBA_R1_C16).ogg",
+      "author": "Victor C. Lewis (recordist), The British Library",
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "recorded": "Cardiganshire, Wales, UK",
+      "seconds": 12.33,
+      "kind": "call"
+    },
+    "img": {
+      "file": "img/barn-owl.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Tyto_alba_tylluan_wen.jpg",
+      "author": "Alun Williams333",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "w": 900,
+      "h": 710
+    }
+  },
+  "eurasian-tree-sparrow": {
+    "audio": {
+      "file": "audio/eurasian-tree-sparrow.mp3",
+      "page": "https://commons.wikimedia.org/wiki/File:Passer_montanus_-_Eurasian_Tree_Sparrow_XC347807.mp3",
+      "author": "Derek Paulo",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "recorded": "Murcia, Negros Occidental, Philippines",
+      "seconds": 15.05,
+      "kind": "call"
+    },
+    "img": {
+      "file": "img/eurasian-tree-sparrow.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Passer_montanus_malaccensis_@_Kuala_Lumpur,_Malaysia_(1).jpg",
+      "author": "Peter P. Othagoer",
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "w": 900,
+      "h": 506
+    }
+  }
+}

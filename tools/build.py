@@ -5,6 +5,7 @@ sitemap.xml and llms.txt from tools/birds.json, tools/credits.json and the copy 
 Both languages are written by hand here. Run:  python3 tools/build.py
 """
 import html
+import ogcards
 import json
 import os
 
@@ -289,6 +290,8 @@ def main():
     with open(os.path.join(DOCS, "llms.txt"), "w") as f:
         f.write("\n".join(lines))
     print("built", len(DATA["birds"]), "birds;", sum(1 for c in CRED.values() if c.get("audio")), "recordings;", sum(1 for c in CRED.values() if c.get("img")), "photos")
+    ogcards.copy(os.path.join(HERE, ".."), DOCS)
+    ogcards.apply_tree(DOCS, BASE)
 
 
 if __name__ == "__main__":
